@@ -1,4 +1,4 @@
-# tugas-labkom-2019-xi-10-ibnu-sina
+# tugas-labkom-2019-xi-10-ibnu-sina.github.io
 tugas-labkom-2019-xi-10-ibnu-sina created by GitHub Classroom
 1. Rafi'ud Darojat
 2. Ayoga Wibowo
